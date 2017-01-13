@@ -1,0 +1,6 @@
+ways to make it faster:
+
+more channels: add more LEDs
+more pulses! Currently it's one pulse per bit, consider 1 pulse per nybble (4) or word (16)!
+smaller buffers! << will test now
+    > fail: corrupt bytes, reason unknown
