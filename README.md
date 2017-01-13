@@ -2,6 +2,7 @@
 [https://blog.echo35.com/lifi_1.0](https://blog.echo35.com/lifi_1.0)
 
 Requires PySerial: `# pip2 install pyserial`
+
 `funcs.py` must be executed from a python2 console with access to the Arduino device (serial):
 ```
 $ sudo python2
