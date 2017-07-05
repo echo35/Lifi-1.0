@@ -1,5 +1,5 @@
 # Lifi 1.0 (Arduino Project)
-[https://blog.echo35.com/lifi_1.0](https://blog.echo35.com/lifi_1.0)
+[https://blog.echo35.com/2017/01/19/lifi-1-0-arduino-project/](https://blog.echo35.com/2017/01/19/lifi-1-0-arduino-project/)
 
 Requires PySerial: `# pip2 install pyserial`
 
